@@ -4,7 +4,7 @@ from rdflib.namespace import RDF, RDFS
 VCARD = Namespace("http://www.w3.org/2001/vcard-rdf/3.0/")
 FOAF = Namespace("http://xmlns.com/foaf/0.1/")
 
-class Report:
+class Report:  
     def __init__(self):
         self.__report = ""
 

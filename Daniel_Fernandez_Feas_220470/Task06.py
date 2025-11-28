@@ -2,7 +2,7 @@
 """
 Task 06 – Modifying RDF(s)
 Assignment 4 – Linked Data (FI UPM)
-"""
+""" 
 
 # Descargar validador
 import urllib.request
